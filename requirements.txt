@@ -1,8 +1,7 @@
-ultralytics
-easyocr
-opencv-python
 streamlit
+opencv-python-headless
 pandas
+easyocr
+ultralytics
 numpy
-deep-sort-realtime
 pyttsx3
