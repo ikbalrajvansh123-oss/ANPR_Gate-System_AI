@@ -12,7 +12,7 @@ from ocr import OCR
 from database import DB
 from utils import preprocess
 
-st.title("📱 Stable ANPR System (Crash-Free)")
+st.title("📱 Stable ANPR System")
 
 # ---------------- INIT ONLY ONCE ----------------
 @st.cache_resource
