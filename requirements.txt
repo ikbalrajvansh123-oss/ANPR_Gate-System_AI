@@ -1,8 +1,11 @@
 streamlit
-streamlit-webrtc
+streamlit-webrtc==0.47.1
 opencv-python-headless
 ultralytics
 easyocr
+numpy<2
 pandas
-numpy
 av
+torch
+torchvision
+tornado==6.4

@@ -11,7 +11,7 @@ from ocr import OCR
 from database import DB
 from utils import preprocess
 
-st.title("📱 ANPR WebRTC System (ENTRY ONLY)")
+st.title("📱 ANPR WebRTC System ")
 
 detector = Detector("models/best.pt")
 ocr = OCR()
