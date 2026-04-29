@@ -13,7 +13,7 @@ from utils import preprocess
 
 st.title("📱 ANPR WebRTC System ")
 
-detector = Detector("models/best.pt")
+detector = Detector("models/yolov8n.pt")
 ocr = OCR()
 db = DB()
 
