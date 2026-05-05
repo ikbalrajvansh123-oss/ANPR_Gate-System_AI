@@ -4,8 +4,8 @@ python-bidi==0.4.2
 opencv-python-headless
 numpy
 pillow
-torch==2.2.2+cpu
-torchvision==0.17.2+cpu
 uvicorn[standard]
 
+torch==2.2.2+cpu
+torchvision==0.17.2+cpu
 --extra-index-url https://download.pytorch.org/whl/cpu
