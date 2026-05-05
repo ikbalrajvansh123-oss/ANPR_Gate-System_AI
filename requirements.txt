@@ -1,12 +1,13 @@
+fastapi==0.111.0
+uvicorn[standard]==0.30.0
+
 ultralytics==8.2.0
 easyocr==1.7.1
 python-bidi==0.4.2
+
 opencv-python-headless
-numpy
 pillow
-uvicorn[standard]
-fastapi==0.110.0
+numpy==1.26.4
 
 torch==2.2.2+cpu
 torchvision==0.17.2+cpu
---extra-index-url https://download.pytorch.org/whl/cpu
