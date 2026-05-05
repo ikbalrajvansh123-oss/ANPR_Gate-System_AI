@@ -3,5 +3,9 @@ easyocr==1.7.1
 python-bidi==0.4.2
 opencv-python-headless
 numpy
-torch
-torchvision
+pillow
+torch==2.2.2+cpu
+torchvision==0.17.2+cpu
+uvicorn[standard]
+
+--extra-index-url https://download.pytorch.org/whl/cpu
